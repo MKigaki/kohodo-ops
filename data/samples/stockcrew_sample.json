@@ -1,0 +1,10 @@
+{
+  "source": "stockcrew",
+  "as_of": "2026-02-12",
+  "inventory": [
+    {"sku": "SKU-001", "location": "Tokyo", "on_hand": 97, "available": 91, "committed": 6, "in_transit": 11},
+    {"sku": "SKU-002", "location": "Osaka", "on_hand": 52, "available": 50, "committed": 2, "in_transit": 1}
+  ],
+  "orders": [],
+  "allocations": []
+}
