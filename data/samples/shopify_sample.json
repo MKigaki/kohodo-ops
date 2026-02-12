@@ -1,0 +1,10 @@
+{
+  "source": "shopify",
+  "as_of": "2026-02-12",
+  "inventory": [
+    {"sku": "SKU-001", "location": "Tokyo", "on_hand": 100, "available": 94, "committed": 6, "in_transit": 10},
+    {"sku": "SKU-002", "location": "Osaka", "on_hand": 50, "available": 48, "committed": 2, "in_transit": 2}
+  ],
+  "orders": [],
+  "allocations": []
+}
