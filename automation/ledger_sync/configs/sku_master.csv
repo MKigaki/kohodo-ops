@@ -1,0 +1,3 @@
+sku,product_name,uom,active,note
+SKU_SAMPLE_001,Sample Product 1,pcs,true,template row
+SKU_SAMPLE_002,Sample Product 2,pcs,true,template row
