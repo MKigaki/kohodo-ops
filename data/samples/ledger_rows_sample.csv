@@ -1,0 +1,4 @@
+event_id,event_time,source,event_type,sku,qty,from_location,to_location,ref_id,note
+shopify:1000000001:200000001:order_created:2026-01-10T10:00:00.000Z,2026-01-10T10:00:00.000Z,shopify,order_created,SKU_SAMPLE_001,-2,,stockcrew_warehouse,1000000001,shopify order #1001
+shopify:1000000002:200000002:order_cancelled:2026-01-12T12:00:00.000Z,2026-01-12T12:00:00.000Z,shopify,order_cancelled,SKU_SAMPLE_002,1,,stockcrew_warehouse,1000000002,shopify cancellation #1002
+shopify:1000000002:200000002:refund:2026-01-13T09:00:00.000Z,2026-01-13T09:00:00.000Z,shopify,refund,SKU_SAMPLE_002,1,,stockcrew_warehouse,1000000002,shopify refund 300000001
