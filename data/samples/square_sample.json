@@ -1,0 +1,10 @@
+{
+  "source": "square",
+  "as_of": "2026-02-12",
+  "inventory": [
+    {"sku": "SKU-001", "location": "Tokyo", "on_hand": 98, "available": 93, "committed": 5, "in_transit": 9},
+    {"sku": "SKU-002", "location": "Osaka", "on_hand": 49, "available": 45, "committed": 4, "in_transit": 1}
+  ],
+  "orders": [],
+  "allocations": []
+}
